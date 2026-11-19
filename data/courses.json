@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "JavaScript Basics",
+      "description": "Learn fundamentals of JavaScript",
+      "targetDate": "2024-03-31",
+      "status": "In Progress",
+      "target_date": "2024-03-31"
+    },
+    {
+      "id": 2,
+      "name": "REST API Development",
+      "description": "Master building REST APIs",
+      "targetDate": "2024-04-15",
+      "status": "Not Started",
+      "target_date": "2024-04-15"
+    },
+    {
+      "id": 3,
+      "name": "Node.js Advanced",
+      "description": "Advanced Node.js concepts",
+      "targetDate": "2024-05-10",
+      "status": "Completed",
+      "target_date": "2024-05-10"
+    }
+  ]
+}
